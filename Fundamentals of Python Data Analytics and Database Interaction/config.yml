@@ -1,0 +1,7 @@
+db: {
+  user: sql7327810,
+  password: XWD2RdGkf9,
+  database_name: sql7327810,
+  hostname: sql7.freemysqlhosting.net,
+  port: 3306
+}
